@@ -3,12 +3,12 @@
 </h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=800&size=25&color=FCE4A8&center=true&vCenter=true&width=435&lines=Software+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&pause=800&size=25&color=FF0000&center=true&vCenter=true&width=435&lines=Software+Engineer" alt="Typing SVG" /></a>
 <p>
  
-<div align='center'>
+<!-- <div align='center'>
  <image src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif" width="340" height="auto" >
-</div>
+</div> -->
 
   
 ## My Projects:
